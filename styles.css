@@ -12,13 +12,19 @@ footer{
 	font-size:25px;
 	padding-left:25px;
 }
+
+.media-icons{
+	display:flex;
+}
 .media-icons ul img{
  width:25px;
 height:25px;
 margin-right:10px;
+border-radius:50%;
 }
 .media-icons ul{
 	display:inline;
+	
 }
 .link-boxes{
 	display:flex;
