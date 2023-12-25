@@ -1,1 +1,59 @@
 /* your code here */
+footer{
+	background:black;
+}
+.top{
+	display:flex;
+	 justify-content: space-between;
+	padding:25px;
+}
+.logo_name{
+	color:white;
+	font-size:25px;
+	padding-left:25px;
+}
+.media-icons ul img{
+ width:25px;
+height:25px;
+margin-right:10px;
+}
+.media-icons ul{
+	display:inline;
+}
+.link-boxes{
+	display:flex;
+	justify-content: space-between;
+	padding:15px;
+}
+h2{
+	color:white;
+	padding-left:35px;
+     text-decoration: underline;
+}
+.Links ul li a{
+	color:gray;
+	text-decoration: none;
+}
+.Services ul li a{
+	color:gray;
+	text-decoration: none;
+}
+.Other_services ul li a{
+	color:gray;
+	text-decoration: none;
+}
+.Contact ul li a{
+	color:gray;
+	text-decoration: none;
+}
+.bottom-details{
+	display:flex;
+	background:gray;
+	justify-content: space-between;
+}
+.bottom-details p{
+	margin-left:25px;
+	margin-right:25px;
+	
+}
+
